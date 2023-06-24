@@ -1,0 +1,6 @@
+gpy==1.10.0
+scipy==1.4.3
+numpy==1.22.3
+matplotlib==3.5.1
+pyrsistent==0.18.0
+
